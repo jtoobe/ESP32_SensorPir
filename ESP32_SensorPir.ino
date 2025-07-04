@@ -1,4 +1,4 @@
-int pirPin = 35;
+int pirPin = 35; // (en la imagen esta conectado a otro pin)
 int LedPin = 32;
 
 // El uso de un buzzer es opcional
